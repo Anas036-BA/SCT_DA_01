@@ -15,7 +15,7 @@ This project focuses on analyzing sales performance using Microsoft Excel. The d
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
+- Pivot Charts 
 - Slicers
 - Conditional Formatting
 
