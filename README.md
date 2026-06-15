@@ -1,35 +1,97 @@
-# SCT_DA_01
-
-# Sales Performance Dashboard (Excel)
+# Adidas Sales Analysis Dashboard
 
 ## Project Overview
-This project focuses on analyzing sales performance using Microsoft Excel. The dashboard provides insights into sales trends, category performance, regional performance, and top-selling products.
 
-## Objectives
-- Analyze Total Sales
-- Track Sales Trends Over Time
-- Identify Top Performing Categories
-- Identify Top Performing Regions
-- Analyze Top Selling Products
+This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel using the Adidas Sales Dataset. The objective of the project was to clean, analyze, and visualize sales performance data to identify key business insights related to sales, profitability, and growth trends.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts 
-- Slicers
-- Conditional Formatting
+The dashboard was developed using Pivot Tables, Pivot Charts, Slicers, and Excel data analysis techniques to provide a clear and interactive view of business performance.
 
-## KPIs
-- Total Sales
-- Total Orders
-- Total Customers
-- Average Sales per Order
+---
 
-## Dashboard Components
-- Sales Trend Analysis
-- Category Performance
-- Regional Performance
-- Top 10 Products Analysis
+## Business Objective
 
-## Project Status
-In Progress 🚧
+* Analyze Total Sales and Total Profit.
+* Evaluate product-wise profitability.
+* Monitor sales trends over time.
+* Enable interactive analysis through month-based filtering.
+
+---
+
+## Dataset Information
+
+The dataset contains sales transaction records with the following fields:
+
+* Invoice Date
+* Retailer
+* Region
+* State
+* City
+* Product
+* Price per Unit
+* Units Sold
+* Total Sales
+* Operating Profit
+* Operating Margin
+* Sales Method
+
+---
+
+## Dashboard Features
+
+### Key Performance Indicators (KPIs)
+
+* Total Sales
+* Total Profit
+* Total Orders
+
+### Visualizations
+
+* Profit by Product Category
+* State-wise Profit Analysis
+* Year-wise Sales Trend Analysis
+
+### Interactive Elements
+
+* Month Slicer for dynamic filtering
+* Pivot Tables
+* Pivot Charts
+
+---
+
+## Tools & Techniques Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* Data Validation
+* Slicers
+* Conditional Formatting
+* Dashboard Design
+
+---
+
+## Key Insights
+
+* Copiers generated the highest profit among all product categories.
+* Certain product categories recorded negative profits, highlighting areas that require business attention.
+* California contributed the highest profit among the analyzed states.
+* Sales demonstrated a positive growth trend over the analyzed period.
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning and Preparation
+* Business Data Analysis
+* Excel Dashboard Development
+* KPI Reporting
+* Data Visualization
+* Sales Performance Analysis
+* Business Insight Generation
+
+---
+
+## Project Outcome
+
+This dashboard provides a concise and interactive overview of sales performance, enabling stakeholders to track revenue, profitability, and trends efficiently. The project demonstrates practical Excel skills commonly used in Business Analytics, Financial Analysis, and Data Analyst roles.
