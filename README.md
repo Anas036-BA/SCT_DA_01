@@ -17,25 +17,6 @@ The dashboard was developed using Pivot Tables, Pivot Charts, Slicers, and Excel
 
 ---
 
-## Dataset Information
-
-The dataset contains sales transaction records with the following fields:
-
-* Invoice Date
-* Retailer
-* Region
-* State
-* City
-* Product
-* Price per Unit
-* Units Sold
-* Total Sales
-* Operating Profit
-* Operating Margin
-* Sales Method
-
----
-
 ## Dashboard Features
 
 ### Key Performance Indicators (KPIs)
